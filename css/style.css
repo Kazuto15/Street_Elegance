@@ -1,0 +1,9 @@
+/* Essa parte do Css vao ser os Slides da primeira pagina */
+
+.container-fluid{
+    padding: 0;
+}
+
+#mainSlider .carousel-inner, #mainSlider .carousel-item{
+    height: 50%;
+}
