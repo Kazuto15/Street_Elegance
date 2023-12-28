@@ -27,7 +27,6 @@
             <li data-bs-target="#mainSlider" data-bs-slide-to="1"></li>
             <li data-bs-target="#mainSlider" data-bs-slide-to="2"></li>
           </ol>
-      <h1>teste</h1>
           <!-- Slides -->
           <div class="carousel-inner">
             <div class="carousel-item active">
