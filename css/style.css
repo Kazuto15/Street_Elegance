@@ -1,9 +1,44 @@
 /* Essa parte do Css vao ser os Slides da primeira pagina */
+.container-fluid{
+    background-color: rgb(31, 30, 30);
+    color: rgb(31,30, 30,);
+}
+
 
 .container-fluid{
     padding: 0;
 }
 
-#mainSlider .carousel-inner, #mainSlider .carousel-item{
-    height: 50%;
+.carousel-inner .carousel-item{
+    margin-top: 50px;
+    transition: all 0.8s;
+    width: 80%;
+    height: 80vh;
+    position: relative;
+    left: 170px;
 }
+.carousel-inner .titulo-carousel, p{
+    font-family: sans-serif;
+
+}
+
+
+.sobre h2, p{
+text-align: center;
+white-space: pre-line;
+line-height: 1.5;       /*Controla a altura da linha */
+letter-spacing: 1px;    /*Controla o espaçamento entre os caracteres igualmente */
+word-spacing: 2px;      /*Controla o espaçamento entre as palavras igualmente */
+margin-bottom: 1em;
+
+
+}
+
+
+
+
+
+
+/*FIM DA PRIMEIRA PAGINA */
+
+
