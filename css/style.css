@@ -15,7 +15,7 @@
     width: 80%;
     height: 80vh;
     position: relative;
-    left: 170px;
+    left: 10%;
 }
 .carousel-inner .titulo-carousel, p{
     font-family: sans-serif;
@@ -23,15 +23,21 @@
 }
 
 
-.sobre h2, p{
-text-align: center;
-white-space: pre-line;
+.sobre p {
+text-align: justify;
+word-wrap: break-word;
 line-height: 1.5;       /*Controla a altura da linha */
 letter-spacing: 1px;    /*Controla o espaçamento entre os caracteres igualmente */
 word-spacing: 2px;      /*Controla o espaçamento entre as palavras igualmente */
 margin-bottom: 1em;
+padding-bottom: 2%;
+max-width: 75%;
+padding-left: 30%;
 
 
+}
+.sobre h2{
+    text-align: center;
 }
 
 

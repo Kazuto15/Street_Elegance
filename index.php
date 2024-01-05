@@ -29,6 +29,7 @@
             <li data-bs-target="#mainSlider" data-bs-slide-to="1"></li>
             <li data-bs-target="#mainSlider" data-bs-slide-to="2"></li>
             <li data-bs-target="#mainSlider" data-bs-slide-to="3"></li>
+            <li data-bs-target="#mainSlider" data-bs-slide-to="4"></li>
           </ol>
           <!-- Slides -->
           <div class="carousel-inner">
@@ -36,28 +37,35 @@
               <img src="img/Y2K drips teste2.png" class="d-block w-100" alt="Y2K style">
               <div class="carousel-caption d-none d-md-block">
                 <h2 class="titulo-carousel">Y2K</h2>
-                <p>Com o bug do milenio dos anos 2000, esse estilo foi usado pelos artistas da epoca, carregando muitas peças chamativas e uma perssonalidade unica.   </p>
+                <p>Y2K é inspirada em meados dos anos 90 e no inicio dos anos 2000. esse estilo foi usado pelos artistas da epoca, carregando muitas peças chamativas e uma perssonalidade unica.   </p>
               </div>
             </div>
             <div class="carousel-item">
               <img src="img/US DRIPS.png" class="d-block w-100" alt="projeto estilo">
               <div class="carousel-caption d-none d-md-block">
                 <h2  class="titulo-carousel">US DRIP</h2>
-                <p>A caracterização do US DRIP é uma mistura de roupas de grife com peças streetwear, criando um visual descontraido como tambem sofisticado.</p>
+                <p>Drip ganhou popularidade nos anos 2000 em Atlanta do estado da Georgia nos EUA.A caracterização do US DRIP é uma mistura de roupas de grife com peças streetwear, criando um visual descontraido como tambem sofisticado.</p>
               </div>
             </div>
             <div class="carousel-item">
               <img src="img/ST.png" class="d-block w-100" alt="projeto estilo">
               <div class="carousel-caption d-none d-md-block">
                 <h2  class="titulo-carousel">STREETWEAR</h2>              
-              <p>O Streetwear surgiu 1990.Inspirado na cultura hip-hop de Nova York e pela cultura do surf da California. È um estilo mais casual que tem mais enfâse nas cores neutras.3333333333333333</p>
+              <p>O Streetwear surgiu 1990.Inspirado na cultura hip-hop de Nova York e pela cultura do surf da California. È um estilo mais casual que tem mais enfâse nas cores neutras.</p>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="img/ST.png" class="d-block w-100" alt="projeto estilo">
+              <img src="img/SL.png" class="d-block w-100" alt="projeto estilo">
               <div class="carousel-caption d-none d-md-block">
-                <h2  class="titulo-carousel">STREETWEAR</h2>              
-              <p>O Streetwear surgiu 1990.Inspirado na cultura hip-hop de Nova York e pela cultura do surf da California. È um estilo mais casual que tem mais enfâse nas cores neutras. </p>
+                <h2  class="titulo-carousel">SPORTLIFE</h2>              
+              <p>Surgindo no Jardim Libano na zona oeste de São Paulo pelo Neguinho de favela com a ideia que você é o atleta de cada dia. O Sportlife se caracteriza com roupas de clubes esportivos trazendo a cultura das favelas do Brasil. </p>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="img/SF.png" class="d-block w-100" alt="projeto estilo">
+              <div class="carousel-caption d-none d-md-block">
+                <h2  class="titulo-carousel">SPORT FINO</h2>              
+              <p>Esse estilo se caracteriza com cores neutras e peças sofisticadas, porem uma peculiaridade desse estilo é que ele mesmo sendo formal acaba sendo mais despojado   </p>
               </div>
             </div>
           </div>
@@ -86,13 +94,14 @@
     missão é capacitá-lo a criar um guarda-roupa que fale autenticidade, originalidade e confiança.</p>
    
     <h2>Nossa Historia</h2>
-    <p> A jornada de Guilherme Mesquita e Kaua Barbosa rumo à autenticidade através da 
-    moda. Nossa história começou na busca pelo autoconhecimento, onde percebemos que navegar pelo mundo 
-    da moda pode ser desafiador. Decidimos criar este espaço para ser mais do que um site, mas um guia confivel 
-    e sim para todas as pessoas terem acesso a como se vestir bem, confortavel e como esta descrito na nossa logo Elegante, 
-    compartilhamos nossas histórias, dicas e triunfos. Aqui, a moda vai além de seguir tendências; é 
-    uma expressão única de quem você é. Ao explorar nossas páginas, você encontrará inspiração e orientação para criar um 
-    guarda-roupa que ecoa a sua autenticidade. Junte-se a nós nesta aventura, onde cada peça conta a sua própria história. 
+    <p> A jornada de Guilherme Mesquita e Kaua Barbosa rumo à autenticidade através da moda. 
+    Nossa história começou na busca pelo autoconhecimento, onde percebemos que navegar pelo mundo 
+    da moda pode ser desafiador. Decidimos criar este espaço para ser mais do que um site, mas um 
+    guia confivel e sim para todas as pessoas terem acesso a como se vestir bem, confortavel e como
+    esta descrito na nossa logo Elegante, compartilhamos nossas histórias, dicas e triunfos. Aqui,
+    a moda vai além de seguir tendências; é uma expressão única de quem você é. Ao explorar nossas
+    páginas, você encontrará inspiração e orientação para criar um guarda-roupa que ecoa a sua 
+    autenticidade. Junte-se a nós nesta aventura, onde cada peça conta a sua própria história. 
     Este é o "Descubra Seu Estilo", onde a moda encontra a verdadeira essência.</p>
     </div>
 
