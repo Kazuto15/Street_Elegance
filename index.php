@@ -30,6 +30,7 @@
             <li data-bs-target="#mainSlider" data-bs-slide-to="2"></li>
             <li data-bs-target="#mainSlider" data-bs-slide-to="3"></li>
             <li data-bs-target="#mainSlider" data-bs-slide-to="4"></li>
+            <li data-bs-target="#mainSlider" data-bs-slide-to="5"></li>
           </ol>
           <!-- Slides -->
           <div class="carousel-inner">
@@ -65,7 +66,15 @@
               <img src="img/SF.png" class="d-block w-100" alt="projeto estilo">
               <div class="carousel-caption d-none d-md-block">
                 <h2  class="titulo-carousel">SPORT FINO</h2>              
-              <p>Esse estilo se caracteriza com cores neutras e peças sofisticadas, porem uma peculiaridade desse estilo é que ele mesmo sendo formal acaba sendo mais despojado   </p>
+              <p>  O estilo sport fino preza por uma elegância moderada, evitando exageros em termos de cores vibrantes ou padrões muito chamativos. A simplicidade e a harmonia são essenciais.</p>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <img src="img/old money.png" class="d-block w-100" alt="projeto estilo">
+              <div class="carousel-caption d-none d-md-block">
+                <h2  class="titulo-carousel">OLD MONEY</h2>              
+              <p>O estilo de vestir muitas vezes reflete a modéstia e a tradição. As pessoas associadas ao Old Money podem preferir roupas clássicas e atemporais, evitando modismos ou tendências passageiras.</p>
               </div>
             </div>
           </div>

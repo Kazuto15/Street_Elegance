@@ -103,17 +103,18 @@ nav {
     <a class="navbar-brand no-link" href="home.php">
         <li class="nav-item home">
           <a class="nav-link text-white" href="home.php">
-            <img src="../img/LOGO_icon.png" width="35" height="35" class="d-inline-block align-top rounded-circle" alt="">Street Elegance
+            <img src="img/logo_icon" alt="">Street Elegance
           </a>
           </li>
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
        
         <li class="nav-item produto">
-          <a class="nav-link text-white" href="produtos.php">Home</a>
+          <a class="nav-link text-white" href="index.php">Home</a>
         </li>
         <li class="nav-item contato">
-          <a class="nav-link text-white" href="contatos.php">Customs</a>
+          <a class="nav-link text-white" href="Custumizations.php">Customs</a>
+          
         </li>
         <li class="nav-item sobre">
           <a class="nav-link text-white" href="sobre.php">Styles</a>
