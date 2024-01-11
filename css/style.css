@@ -9,6 +9,7 @@
     padding: 0;
 }
 
+/*Carrosel */
 .carousel-inner .carousel-item{
     margin-top: 50px;
     transition: all 0.8s;
@@ -22,7 +23,7 @@
 
 }
 
-
+/*Texto sobre */
 .sobre p {
 text-align: justify;
 word-wrap: break-word;
@@ -43,10 +44,5 @@ padding-left: 30%;
 
 /*FIM DA PRIMEIRA PAGINA */
 
-/* SEGUNDA PAGINA*/
-
-h1{
-    text-align: center;
-}
 
 
