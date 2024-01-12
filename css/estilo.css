@@ -1,8 +1,5 @@
 
 .dicas p{
-
-    text-align: justify;
-    word-wrap: break-word;
     line-height: 1.5;       /*Controla a altura da linha */
     letter-spacing: 1px;    /*Controla o espaçamento entre os caracteres igualmente */
     word-spacing: 2px;      /*Controla o espaçamento entre as palavras igualmente */
@@ -43,7 +40,19 @@
 }
 
 .conteudo-estilo p{
-    text-align: center;
-    justify-content:center ;
+    text-align: justify;
+    line-height: 1.5;       /*Controla a altura da linha */
+    letter-spacing: 1px;    /*Controla o espaçamento entre os caracteres igualmente */
+    word-spacing: 2px;      /*Controla o espaçamento entre as palavras igualmente */
+    margin-bottom: 1em;
+    padding-bottom: 2%;
+    max-width: 80%;
+    padding-left: 20%;
 }
+.conteudo-estilo .paletas{
+    margin-left: 60px;
+    margin-top: 50px;
+    width: 40rem;
 
+
+}

@@ -17,7 +17,7 @@ function mostrarEstilo(estilo) {
             infoVestimenta.style.display = 'none';
         });
 
-        var informacoesVestimenta = document.getElementById(estilo + '-vestimenta');
+        var informacoesVestimenta = document.getElementById(estilo + '-vestimenta ');
         if (informacoesVestimenta) {
             informacoesVestimenta.style.display = 'block';
         }

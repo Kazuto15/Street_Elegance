@@ -60,27 +60,32 @@
     </div>
 </div>
 
-            <div class="conteudo-estilo" id="streetwear-content">
+            <div class="conteudo-estilo text-center" id="streetwear-content">
                <h1>Streetwear</h1>
-                <p class="info-principal">Quais são as peças que mais se destacam nos looks streetwear?</p>
-                <p id="streetwear-vestimenta" style="display: none;">
+                <p class="info-principal text-center">Quais são as peças que mais se destacam nos looks streetwear?</p>
+
+                <div id="streetwear-vestimenta" style="display: none;">
+                <p>
             <strong>Moletons-</strong>Calças de moletons são tendêndencia, principalmente pelo com quase tudo procure por moletons de cores neutras, por não ser uma peça que geralmente não tem tanto destaque. Com isso busque que o moletom seja armoniozo com o resto do look
-            tanto quanto a calça quanto a blusa que são ótimas escolhas em um dia frio. <br>
+            tanto quanto a calça quanto a blusa que são ótimas escolhas em um dia frio. <br><br>
             <strong>Camisetas-</strong>No streetwear as camisetas são bem versateis, você pode usar uma Oversize como também uma estampada, dica use uma estampa que faça parte dos seus gostos pessoais, seja um cantor ou algo que você goste, isso cria uma caracteristica unica
-            e especificamente sua. Outra tendência no streetwear são as camisetas estampadas nas costas dando um aspecto diferente nos estilo. <br>
+            e especificamente sua. Outra tendência no streetwear são as camisetas estampadas nas costas dando um aspecto diferente nos estilo. <br><br>
             <strong>Calças-</strong>As calças são peças muito importantes para o streetwear, tendo diversas variações,moletons, Jeans, Jeans com o corte reto, Calça Cargo e calça balão. O tamanho da calça geralmente no stretwear opte por peças mais largas, tirando a calça balão que ja
-            tem esse intuito de ser muito largo, não exagere. <br>
-            <strong>Shorts-</strong>Á diversas peças de shorts alguns modelos de exemplo, Short cargo, Short de moletom, Shorts de basquete, Shorts de nylon, Shorts estampados e descontraidos. Escolha o short que mais transpirar sua individualidade e conforto, seja bem abragente as cores. <br> 
+            tem esse intuito de ser muito largo, não exagere. <br><br>
+            <strong>Shorts-</strong>Á diversas peças de shorts alguns modelos de exemplo, Short cargo, Short de moletom, Shorts de basquete, Shorts de nylon, Shorts estampados e descontraidos. Escolha o short que mais transpirar sua individualidade e conforto, seja bem abragente as cores. <br><br> 
             <strong>Tênis-</strong>As têndencias para os tenis nos streetwear são bem versáteis vou citar alguns modelos, NIke Air Force, Puma SlipStream, adidas Samba, Adidas Buny,  Puma 180, new balance 550, hocks pop lite, existe muitos outros tênis que representa este estilo 
-            não escolha tênis de corrida, sapato social e nem sandalha. <br>
-            <strong>Chinelos-</strong>Sim você leu corretamente, Chinelos! devido as altas temperaturas os chinelos Slides criaram uma notoriedade incrivel e acaba sendo uma ótima opçao para o dia a dia. Escolha as cores que deseja depende para qual peça você quer dar destaque ao look. <br>
+            não escolha tênis de corrida, sapato social e nem sandalha. <br><br>
+            <strong>Chinelos-</strong>Sim você leu corretamente, Chinelos! devido as altas temperaturas os chinelos Slides criaram uma notoriedade incrivel e acaba sendo uma ótima opçao para o dia a dia. Escolha as cores que deseja depende para qual peça você quer dar destaque ao look. <br><br>
             <strong>Acessório-</strong>Pulseiras, correntes finas, correntes grossas, utilize os acessórios pricinpalmente em looks mais simples sem muitas cores ou sopreposições para dar aquele toque final ao seu estilo. <br> <br>
-            <Strong>Paletas de cores</Strong><br>
-            <img src="img/cores-neutras.png" style="width: 20rem;" alt="">
-
-
             </p>
-            </div>     
+            <Strong>Paletas de cores e looks-</Strong><br>
+            
+            <img class="paletas" src="img/cores-neutras.png" style="width: 20rem;" alt="">
+            <img class="paletas" src="img/ST.png" alt="">
+            
+          
+        </div>
+    </div>     
 
               <!-- Informações específicas para Y2K -->
               <div class="conteudo-estilo" id="y2k-content">
