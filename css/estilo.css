@@ -1,4 +1,6 @@
+
 .dicas p{
+
     text-align: justify;
     word-wrap: break-word;
     line-height: 1.5;       /*Controla a altura da linha */
@@ -10,3 +12,38 @@
     padding-left: 30%;
     
 }
+.dicas h1, h2{
+    text-align: center;
+    justify-content: center;
+}
+/*Cards */
+.container .card-img-top{
+    width: 80%;
+    height: 70%;
+}
+.container .btn{
+    border: none;
+   border-radius: 1000px;
+   cursor: pointer;
+   font-weight:inherit;
+   transition: 0.5s;
+    
+}
+/*informaçoes dos estilos  */
+.conteudo-estilo h1{
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.conteudo-estilo .info-principal{
+    font-weight: bold;
+
+}
+
+.conteudo-estilo p{
+    text-align: center;
+    justify-content:center ;
+}
+

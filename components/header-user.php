@@ -96,7 +96,7 @@ nav {
 </style>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/custom.css">
+    <link rel="stylesheet" href="/css/estilo.css">
     <link href="/your-path-to-uicons/css/uicons-[your-style].css" rel="stylesheet">
 <nav class="navbar navabar-expand-sm navbar-light nav_cor" id="nav-maximized"> 
   <div class="container">
