@@ -60,13 +60,15 @@
     </div>
 </div>
 
+            
             <div class="conteudo-estilo text-center" id="streetwear-content">
+            <div id="streetwear-vestimenta" style="display: none;">
                <h1>Streetwear</h1>
                 <p class="info-principal text-center">Quais são as peças que mais se destacam nos looks streetwear?</p>
 
-                <div id="streetwear-vestimenta" style="display: none;">
+                
                 <p>
-            <strong>Moletons-</strong>Calças de moletons são tendêndencia, principalmente pelo com quase tudo procure por moletons de cores neutras, por não ser uma peça que geralmente não tem tanto destaque. Com isso busque que o moletom seja armoniozo com o resto do look
+            <strong>Moletons-</strong>Calças de moletons são tendêndencia, principalmente pelo com quase tudo procure por moletons de cores neutras, por não ser uma peça que geralmente não tem tanto destaque (se for uma calça). Com isso busque que o moletom seja armoniozo com o resto do look
             tanto quanto a calça quanto a blusa que são ótimas escolhas em um dia frio. <br><br>
             <strong>Camisetas-</strong>No streetwear as camisetas são bem versateis, você pode usar uma Oversize como também uma estampada, dica use uma estampa que faça parte dos seus gostos pessoais, seja um cantor ou algo que você goste, isso cria uma caracteristica unica
             e especificamente sua. Outra tendência no streetwear são as camisetas estampadas nas costas dando um aspecto diferente nos estilo. <br><br>
@@ -76,23 +78,36 @@
             <strong>Tênis-</strong>As têndencias para os tenis nos streetwear são bem versáteis vou citar alguns modelos, NIke Air Force, Puma SlipStream, adidas Samba, Adidas Buny,  Puma 180, new balance 550, hocks pop lite, existe muitos outros tênis que representa este estilo 
             não escolha tênis de corrida, sapato social e nem sandalha. <br><br>
             <strong>Chinelos-</strong>Sim você leu corretamente, Chinelos! devido as altas temperaturas os chinelos Slides criaram uma notoriedade incrivel e acaba sendo uma ótima opçao para o dia a dia. Escolha as cores que deseja depende para qual peça você quer dar destaque ao look. <br><br>
-            <strong>Acessório-</strong>Pulseiras, correntes finas, correntes grossas, utilize os acessórios pricinpalmente em looks mais simples sem muitas cores ou sopreposições para dar aquele toque final ao seu estilo. <br> <br>
+            <strong>Acessório-</strong>Pulseiras, correntes finas, correntes grossas, utilize os acessórios pricinpalmente em looks mais simples sem muitas cores ou sopreposições para dar aquele toque final ao seu estilo. Também temos as bags como acessório, Bag de Ombro e Bag Tote
+            são ótimas opções para se utilizar no dia a dia e é uma tendêdencia.  <br> <br>
             </p>
-            <Strong>Paletas de cores e looks-</Strong><br>
+            <h4>Paletas de cores e looks na prátrica</h4><br>
             
             <img class="paletas" src="img/cores-neutras.png" style="width: 20rem;" alt="">
-            <img class="paletas" src="img/ST.png" alt="">
-            
+            <img class="paletas" src="img/ST.png" alt=""><br>
+            <img class="paletas" src="img/combinacoes.png" style="width: 20rem;" alt="">
+            <img class="paletas" src="img/combinacoes-estilos.png"  alt="">
+           
+            <h4>Como atingir a harmonia no look</h4>
+            <p><strong>Como utilizar as cores preto e branco:</strong>Antes de montar seu look escolha uma cor destaque.Como por exemplo na imagem a cima, a camiseta vermelha sendo o destaque, ou a camiseta azul da segunda foto.Uma coisa em comum nesses looks que todos eles utilizam uma cor neutra sendo o preto ou branco
+            por serem cores coringas por combinar qualquer outifit de cor clara ou escura. </p>
+            <p><strong>looks de uma unica cor:</strong>Mesmo sendo de uma unica cor, tem diversas opções de como utilizar.Pode ser com tonalidade da mesma cor e e tambem adicionar sobreposições, como cardigãs e jaquetas da mesma cor para um estilo monocromático durante todo o ano. Quanto aos sapatos, escolha modelos que harmonizem ou destaquem no look. Em acessórios, invista em peças tradicionais de prata ou dourado, 
+            evitando cores adicionais para manter a sobriedade dos looks formais.</p>
+
           
         </div>
-    </div>     
-
+         
+    </div> 
               <!-- Informações específicas para Y2K -->
               <div class="conteudo-estilo" id="y2k-content">
+                <div id="y2k-vestimenta text-center">
                 <h1>Y2K</h1>
-                <p class="info-principal">Informações sobre o Y2K...</p>
-                <p id="y2k-vestimenta" style="display: none;">Vista-se assim para o Y2K...</p>
+                <p class="info-principal text-center">Informações sobre o Y2K...</p>
+                <p  style="display: none;">ALALALALALAALALALALALALALALALAALALALA</p>
+
+                </div>
             </div>
+       
 
             
 

@@ -41,9 +41,9 @@
 
 .conteudo-estilo p{
     text-align: justify;
-    line-height: 1.5;       /*Controla a altura da linha */
-    letter-spacing: 1px;    /*Controla o espaçamento entre os caracteres igualmente */
-    word-spacing: 2px;      /*Controla o espaçamento entre as palavras igualmente */
+    line-height: 1.5;       
+    letter-spacing: 1px;    
+    word-spacing: 2px;      
     margin-bottom: 1em;
     padding-bottom: 2%;
     max-width: 80%;
@@ -53,6 +53,7 @@
     margin-left: 60px;
     margin-top: 50px;
     width: 40rem;
-
-
+}
+.conteudo-estilo h4{
+    margin-top: 50px;
 }
