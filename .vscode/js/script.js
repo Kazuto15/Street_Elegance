@@ -12,12 +12,12 @@ function mostrarEstilo(estilo) {
         conteudoSelecionado.classList.add('mostrar');
 
         // Oculta as informações específicas de vestimenta se o estilo não for especificado
-        var todasInformacoesVestimenta = document.querySelectorAll('-vestimenta');
+        var todasInformacoesVestimenta = document.querySelectorAll('.vestimenta');
         todasInformacoesVestimenta.forEach(function (infoVestimenta) {
             infoVestimenta.style.display = 'none';
         });
 
-        var informacoesVestimenta = document.getElementById(estilo + '-vestimenta ');
+        var informacoesVestimenta = document.getElementById(estilo + '-vestimenta');
         if (informacoesVestimenta) {
             informacoesVestimenta.style.display = 'block';
         }
