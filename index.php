@@ -35,7 +35,7 @@
           <!-- Slides -->
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="img/Y2K drips teste2.png" class="d-block w-100" alt="Y2K style">
+                                                                                                                                          <img src="img/Y2K drips teste2.png" class="d-block w-100" alt="Y2K style">
               <div class="carousel-caption d-none d-md-block">
                 <h2 class="titulo-carousel">Y2K</h2>
                 <p>Y2K é inspirada em meados dos anos 90 e no inicio dos anos 2000. esse estilo foi usado pelos artistas da epoca, carregando muitas peças chamativas e uma perssonalidade unica.   </p>
